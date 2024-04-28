@@ -21,12 +21,3 @@ WeatherWise is a user-friendly weather website that provides accurate and up-to-
 - JavaScript
 - Weather API (for fetching weather data)
 
-## Contributions
-Contributions to WeatherWise are welcome! If you'd like to contribute to the project, please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b feature/new-feature`
-3. Make your changes and test thoroughly.
-4. Commit your changes: `git commit -am 'Add new feature'`
-5. Push to the branch: `git push origin feature/new-feature`
-6. Submit a pull request describing your changes.
-
